@@ -16,7 +16,10 @@
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
       "status_app": true,
-      "link_redirect": "https://facebook.com"
+      "link_redirect": "https://facebook.com",
+      "base_url":"https://cyclope.xyz/chia/akatsuki/api/",
+      "upload_url":"https://cyclope.xyz/chia/akatsuki/uploads/",
+	    "more_app":"https://play.google.com/store/apps/dev?id=5700313618786177705"
     }
   ]
 }
