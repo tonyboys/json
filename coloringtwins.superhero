@@ -18,8 +18,8 @@
       "status_app": true,
       "link_redirect": "https://facebook.com",
       "onesignal": "1d894e5d-a5ce-4b73-8082-dac92e246fcc",
-      "base_url":"https://cyclope.xyz/chia/akatsuki/api/",
-      "upload_url":"https://cyclope.xyz/chia/akatsuki/uploads/",
+      "base_url":"https://cyclope.xyz/coloringtwins/superhero//api/",
+      "upload_url":"https://cyclope.xyz/coloringtwins/superhero//uploads/",
 	  "more_app":"https://play.google.com/store/apps/dev?id=5700313618786177705"
     }
   ]
