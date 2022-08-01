@@ -7,22 +7,19 @@
       "main_ads_intertitial":"ca-app-pub-2548483122764029/1435447899",
       "backup_ads_banner":"973966d6c9a2a55e",
       "backup_ads_intertitial":"b6435d7d5c700a7e",
-      "interval_intertitial": 2,
+      "interval_intertitial": 1,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "protect_app": "true",
-      "base_64": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgQQCxQ/xjWTWzxusyXa+o3Ga0f1H57/+huZ0RPlan16dSM9Z1JWVCN9tQEzTG1rUagayNLaLZZ/Fj3vdVWQy79abJnY/KjW+lS4Jk/hSBRncesxJPIKlssM1/3PBfUcGDQ3l90YVSR18dA/ft9BJP1U2u/KIdRk2T+Fkzg81AGtot9uKk27XccVGzcubKr1zbRG855SnZjETuESiAPIIkA1nb8x95S9+7s/bSSqZFSZfya2WnUZ+96XEZDyIthsh+oUhn0ySsZNnS4o1629XPwWpOZwLb8HuYQdB9DkTVT8mDrDfetYPvrwq+NThWQQleSNv/W80qeRoFwrMk/KXmwIDAQAB",
-      
+      "high_paying_keyword_5": "",  
       "status_app": true,
       "link_redirect": "https://facebook.com",
       "base_url":"https://cyclope.xyz/coloringtwins/superhero/api/",
       "upload_url":"https://cyclope.xyz/coloringtwins/superhero/uploads/",
-	  "more_app":"https://play.google.com/store/apps/details?id=com.aliendroid.bestcoloringsuperhero",
+	  "more_app":"https://play.google.com/store/apps/dev?id=5700313618786177705"
 	 
     }
   ]
