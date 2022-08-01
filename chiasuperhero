@@ -3,8 +3,8 @@
     {
       "select_main_ads": "FACEBOOK",
       "select_backup_ads":"APPLOVIN-g",
-      "main_ads_banner": "ca-app-pub-3940256099942544/2247696110",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-3940256099942544/2247696110XXX",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712XX",
       "backup_ads_banner":"5c3915c9347c2160",
       "backup_ads_intertitial":"61a6ec86ea4dcaf3",
       "interval_intertitial": 1,
