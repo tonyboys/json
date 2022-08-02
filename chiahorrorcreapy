@@ -1,0 +1,73 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-2548483122764029/7302672033xx",
+      "main_ads_intertitial":"ca-app-pub-2548483122764029/2241917040xx",
+      "main_ads_rewards":"ca-app-pub-2548483122764029/2050345350xx",
+      "native_for_admob":"73d47a8bbf981e40",
+      "backup_ads_banner":"73d47a8bbf981e40",
+      "backup_ads_intertitial":"bc6ba91cadaed794",
+      "backup_ads_rewards":"bc78c2ed2e957dab",
+      "survey_api_key":"608b94ff-462a-4ccc-8ce7-d8af365b9276",
+      "interval_intertitial": 1,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"file:///android_asset/ludo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Granny",
+      "image_url": "file:///android_asset/image/granny.jpg",
+      "video_url": "granny",
+      "voice_url": "call.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Jason",
+      "image_url": "file:///android_asset/image/jason.jpg",
+      "video_url": "jason",
+      "voice_url": "call.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Pennywise",
+      "image_url": "file:///android_asset/image/pennywise.jpg",
+      "video_url": "pennywise",
+      "voice_url": "call.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Sirenhead",
+      "image_url": "file:///android_asset/image/sirenhead.jpg",
+      "video_url": "sirenhead",
+      "voice_url": "call.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Skeletonsans",
+      "image_url": "file:///android_asset/image/skeletonsans.jpg",
+      "video_url": "skeletonsans",
+      "voice_url": "call.mp3"
+    }
+  ]
+}
