@@ -17,9 +17,9 @@
       "high_paying_keyword_5": "Shopee",  
       "status_app": true,
       "link_redirect": "https://facebook.com",
-      "base_url":"https://cyclope.xyz/chia/superhero/api/",
-      "upload_url":"https://cyclope.xyz/chia/superhero/uploads/",
-	  "more_app":"more_app":"https://play.google.com/store/apps/developer?id=ChiaMarukochan"
+      "base_url":"https://cyclope.xyz/coloringtwins/superhero/api/",
+      "upload_url":"https://cyclope.xyz/coloringtwins/superhero/uploads/",
+	  "more_app":"https://play.google.com/store/apps/developer?id=ColoringTwins"
 	 
     }
   ]
