@@ -3,10 +3,10 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "/22387492205,22786397297/com.aliendroid.bestcoloringsuperhero.Native0.1658137251",
-      "main_ads_intertitial":"/22387492205,22786397297/com.aliendroid.bestcoloringsuperhero.Interstitial0.1658137275",
-      "backup_ads_banner":"973966d6c9a2a55e",
-      "backup_ads_intertitial":"b6435d7d5c700a7e",
+      "main_ads_banner": "ca-app-pub-2548483122764029/3749298192xx",
+      "main_ads_intertitial":"ca-app-pub-2548483122764029/9526608179xx",
+      "backup_ads_banner":"84dfb7702028b877",
+      "backup_ads_intertitial":"0667820a9a00742c",
       "interval_intertitial": 0,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
@@ -19,7 +19,7 @@
       "link_redirect": "https://facebook.com",
       "base_url":"https://cyclope.xyz/chia/benten/api/",
       "upload_url":"https://cyclope.xyz/chia/benten/uploads/",
-	  "more_app":"https://play.google.com/store/apps/developer?id=ColoringTwins"
+	  "more_app":"https://play.google.com/store/apps/developer?id=ChiaMarukochan"
 	 
     }
   ]
