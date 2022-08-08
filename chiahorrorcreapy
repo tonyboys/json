@@ -3,10 +3,10 @@
       {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-2548483122764029/7302672033xx",
-      "main_ads_intertitial":"ca-app-pub-2548483122764029/2241917040xx",
+      "main_ads_banner": "/22387492205,22786397297/com.ChiaMarukochan.superherocoloring.Native0.1659620265",
+      "main_ads_intertitial":"/22387492205,22786397297/com.ChiaMarukochan.superherocoloring.Interstitial0.1659620290",
       "main_ads_rewards":"ca-app-pub-2548483122764029/2050345350xx",
-      "native_for_admob":"73d47a8bbf981e40",
+      "native_for_admob":"/22387492205,22786397297/com.ChiaMarukochan.superherocoloring.Native0.1659620265",
       "backup_ads_banner":"73d47a8bbf981e40",
       "backup_ads_intertitial":"bc6ba91cadaed794",
       "backup_ads_rewards":"bc78c2ed2e957dab",
