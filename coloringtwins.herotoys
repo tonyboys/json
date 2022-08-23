@@ -17,8 +17,8 @@
       "high_paying_keyword_5": "",  
       "status_app": true,
       "link_redirect": "https://facebook.com",
-      "base_url":"https://cyclope.xyz/coloringtwins/coloringupin/api/",
-      "upload_url":"https://cyclope.xyz/coloringtwins/coloringupin/uploads/",
+      "base_url":"https://cyclope.xyz/coloringtwins/herotoys/api/",
+      "upload_url":"https://cyclope.xyz/coloringtwins/herotoys/uploads/",
 	  "more_app":"https://play.google.com/store/apps/developer?id=ColoringTwins"
 	 
     }
