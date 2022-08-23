@@ -2,11 +2,11 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"",
-      "main_ads_banner": "ca-app-pub-2548483122764029/7809284550",
-      "main_ads_intertitial":"ca-app-pub-2548483122764029/1435447899",
-      "backup_ads_banner":"/22387492205,22786397297/com.aliendroid.bestcoloringsuperhero.Native0.1658137251",
-      "backup_ads_intertitial":"/22387492205,22786397297/com.aliendroid.bestcoloringsuperhero.Interstitial0.1658137275",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "/22387492205,22786397297/com.aliendroid.bestcoloringsuperhero.Native0.1658137251",
+      "main_ads_intertitial":"/22387492205,22786397297/com.aliendroid.bestcoloringsuperhero.Interstitial0.1658137275",
+      "backup_ads_banner":"ca-app-pub-2548483122764029/7809284550",
+      "backup_ads_intertitial":"ca-app-pub-2548483122764029/1435447899",
       "interval_intertitial": 0,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
