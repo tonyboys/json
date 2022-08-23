@@ -3,8 +3,8 @@
     {
       "select_main_ads": "GOOGLE-ADS",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "/22387492205,22786397297/com.coloringtwins.coloringherotoys.Banner0.1661241784xx",
-      "main_ads_intertitial":"/22387492205,22786397297/com.coloringtwins.coloringherotoys.Interstitial0.1659289000xx",
+      "main_ads_banner": "/22387492205,22786397297/com.coloringtwins.coloringherotoys.Banner0.1661241784",
+      "main_ads_intertitial":"/22387492205,22786397297/com.coloringtwins.coloringherotoys.Interstitial0.1659289000",
       "backup_ads_banner":"645818936f69f804",
       "backup_ads_intertitial":"824e071aa48d99a5",
       "interval_intertitial": 2,
