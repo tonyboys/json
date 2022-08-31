@@ -1,0 +1,355 @@
+{
+   "Ads": [
+    {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "car",
+      "high_paying_keyword_2": "fashion",
+      "high_paying_keyword_3": "sport",
+      "high_paying_keyword_4": "mobile",
+      "high_paying_keyword_5": "insurance",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/1.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/2.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer/3.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/4.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/5.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/6.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/7.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer/8.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/9.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/10.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/11.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/12.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer/13.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/14.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/15.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/16.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/17.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer/18.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/19.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/20.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/21.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/22.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer/23.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/24.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/25.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/26.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/27.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer/28.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/29.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/30.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/31.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/32.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer/33.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/34.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/35.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/36.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/37.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer/38.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/39.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/40.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/41.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/42.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer/43.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/44.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/45.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/46.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/47.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/48.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/49.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/50.jpg"
+    },
+	   {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/1.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/2.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/3.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/4.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/5.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/6.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/7.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/8.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/9.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/10.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/11.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/12.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/13.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/14.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/15.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/16.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/17.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/18.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/19.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/20.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/21.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/22.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/23.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/24.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/25.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/26.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/27.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/28.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/29.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/30.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/31.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/32.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/33.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/34.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/35.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/36.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/37.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/38.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/39.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/40.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/41.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/42.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/43.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/44.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/45.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/46.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/47.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/48.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/49.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/50.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/51.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/52.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/53.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/54.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/55.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/56.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/57.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/58.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/59.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer2/60.jpg"
+    }
+     
+  ]
+}
