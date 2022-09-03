@@ -15,6 +15,8 @@
       "high_paying_keyword_3": "sport",
       "high_paying_keyword_4": "mobile",
       "high_paying_keyword_5": "insurance",
+      "admob_openads": "0",
+      "child_direct": "true",
       "status_app": "0",
       "link_redirect": "https://"
     }
