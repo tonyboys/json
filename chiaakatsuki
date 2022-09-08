@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_backup_ads":"APPLOVIN-",
       "main_ads_banner": "/22387492205,22786397297/com.ChiaMarukochan.akatsukicoloring.Native0.1658495116",
       "main_ads_intertitial":"/22387492205,22786397297/com.ChiaMarukochan.akatsukicoloring.Interstitial0.1658495136",
       "backup_ads_banner":"c2e445f148c3afc4",
