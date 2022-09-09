@@ -5,6 +5,8 @@
       "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "/22387492205,22786397297/com.ChiaMarukochan.demonslayerkeyboaard.Banner0.1662553466",
       "main_ads_intertitial":"/22387492205,22786397297/com.ChiaMarukochan.demonslayerkeyboaard.Interstitial0.1662553444",
+      "main_native_ads_Admob_or_applovin":"/22387492205,22786397297/com.ChiaMarukochan.demonslayerkeyboaard.Native0.1662568978",
+      "backup_native_ads_Admob_or_applovin":"ddcf71c2752918e4",
       "backup_ads_banner":"fa550b812f10bf38",
       "backup_ads_intertitial":"a841a0c1c6e56602",
       "interval_intertitial": 1,
