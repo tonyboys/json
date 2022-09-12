@@ -1,0 +1,26 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-",
+      "main_ads_banner": "/22387492205,22786397297/com.coloringtwins.happyfamily.Native0.1659288922",
+      "main_ads_intertitial":"/22387492205,22786397297/com.coloringtwins.happyfamily.Interstitial0.1659288903",
+      "backup_ads_banner":"3f4fde766fc4e187",
+      "backup_ads_intertitial":"4ff9c5bbc8bfcefe",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "Issurance",
+      "high_paying_keyword_2": "Forex",
+      "high_paying_keyword_3": "Slot",
+      "high_paying_keyword_4": "Tokopedia",
+      "high_paying_keyword_5": "Shopee",  
+      "status_app": true,
+      "link_redirect": "https://facebook.com",
+      "base_url":"https://cyclope.xyz/coloringtwins/happyfamily/api/",
+      "upload_url":"https://cyclope.xyz/coloringtwins/happyfamily/uploads/",
+	  "more_app":"https://play.google.com/store/apps/developer?id=ColoringTwins"
+	 
+    }
+  ]
+}
