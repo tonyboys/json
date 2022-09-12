@@ -17,8 +17,8 @@
       "high_paying_keyword_5": "Shopee",  
       "status_app": true,
       "link_redirect": "https://facebook.com",
-      "base_url":"https://cyclope.xyz/coloringtwins/happyfamily/api/",
-      "upload_url":"https://cyclope.xyz/coloringtwins/happyfamily/uploads/",
+      "base_url":"https://cyclope.xyz/coloringtwins/ryancoloringbook/api/",
+      "upload_url":"https://cyclope.xyz/coloringtwins/ryancoloringbook/uploads/",
 	  "more_app":"https://play.google.com/store/apps/developer?id=ColoringTwins"
 	 
     }
