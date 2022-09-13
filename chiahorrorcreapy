@@ -1,10 +1,10 @@
 {
   "Ads": [
       {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "FACEBOOK",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "/22387492205,22786397297/com.modbussid.modiflengkap.Banner0.1662538365",
-      "main_ads_intertitial":"/22387492205,22786397297/com.modbussid.modiflengkap.Interstitial0.1659677763",
+      "main_ads_banner": "447908374040444_448781463953135",
+      "main_ads_intertitial":"447908374040444_447908617373753",
       "main_ads_rewards":"/22387492205,22786397297/com.modbussid.modiflengkap.Rewarded0.1662538386",
       "native_for_admob":"/22387492205,22786397297/com.modbussid.modiflengkap.Native0.1659677739",
       "backup_ads_banner":"73d47a8bbf981e40",
