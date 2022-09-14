@@ -1,0 +1,174 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+      "Theme": [
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/1.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/2.jpg"
+    },
+	{
+     "url_theme": "https://kerikil.xyz/keyboard/stumble/3.jpg"
+    }, 
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/4.jpg"
+    },
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/5.jpg"
+    }, 
+	{
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/6.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/7.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/8.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/9.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/10.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/11.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/12.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/13.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/14.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/15.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/16.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/17.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/18.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/19.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/20.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/21.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/22.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/23.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/24.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/25.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/26.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/27.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/28.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/29.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/30.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/31.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/32.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/33.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/34.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/35.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/36.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/37.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/38.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/39.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/40.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/41.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/42.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/43.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/44.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/45.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/46.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/47.jpg"
+    },
+     {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/48.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/49.jpg"
+    },
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/stumble/50.jpg"
+    }    
+  ]
+}
