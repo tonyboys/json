@@ -3,8 +3,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-",
-      "main_ads_banner": "/22387492205,22786397297/com.coloringtwins.happyfamily.Native0.1659288922",
-      "main_ads_intertitial":"/22387492205,22786397297/com.coloringtwins.happyfamily.Interstitial0.1659288903",
+      "main_ads_banner": "ca-app-pub-2548483122764029/8259039792",
+      "main_ads_intertitial":"ca-app-pub-2548483122764029/9572121463",
       "backup_ads_banner":"3f4fde766fc4e187",
       "backup_ads_intertitial":"4ff9c5bbc8bfcefe",
       "interval_intertitial": 0,
