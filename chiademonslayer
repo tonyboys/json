@@ -3,9 +3,9 @@
     {
      "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "/22387492205,22786397297/com.ChiaMarukochan.demonslayerkeyboaard.Banner0.1662553466",
-      "main_ads_intertitial":"/22387492205,22786397297/com.ChiaMarukochan.demonslayerkeyboaard.Interstitial0.1662553444",
-      "main_native_ads_Admob_or_applovin":"/22387492205,22786397297/com.ChiaMarukochan.demonslayerkeyboaard.Native0.1662568978",
+      "main_ads_banner": "ca-app-pub-2548483122764029/6181717939",
+      "main_ads_intertitial":"ca-app-pub-2548483122764029/4868636265",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-2548483122764029/3639901802",
       "backup_native_ads_Admob_or_applovin":"ddcf71c2752918e4",
       "backup_ads_banner":"fa550b812f10bf38",
       "backup_ads_intertitial":"a841a0c1c6e56602",
@@ -17,7 +17,7 @@
       "high_paying_keyword_3": "sport",
       "high_paying_keyword_4": "mobile",
       "high_paying_keyword_5": "insurance",
-      "admob_openads": "/22387492205,22786397297/com.ChiaMarukochan.demonslayerkeyboaard.AppOpen0.1662568957",
+      "admob_openads": "ca-app-pub-2548483122764029/9929391258",
       "child_direct": "true",
       "status_app": "0",
       "link_redirect": "https://"
