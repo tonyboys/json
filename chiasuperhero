@@ -3,8 +3,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "/22387492205,22786397297/com.ChiaMarukochan.superherocoloring.Native0.1659620265",
-      "main_ads_intertitial":"/22387492205,22786397297/com.ChiaMarukochan.superherocoloring.Interstitial0.1659620290",
+      "main_ads_banner": "ca-app-pub-2548483122764029/2091224879",
+      "main_ads_intertitial":"ca-app-pub-2548483122764029/7116035436",
       "backup_ads_banner":"5c3915c9347c2160",
       "backup_ads_intertitial":"61a6ec86ea4dcaf3",
       "interval_intertitial": 0,
