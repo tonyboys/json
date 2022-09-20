@@ -1,14 +1,14 @@
 {
    "Ads": [
     {
-     "select_main_ads": "APPLOVIN-",
-      "select_backup_ads":"APPLOVIN-",
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "fa550b812f10bf38",
       "main_ads_intertitial":"a841a0c1c6e56602",
       "main_native_ads_Admob_or_applovin":"ddcf71c2752918e4",
-      "backup_native_ads_Admob_or_applovin":"ddcf71c2752918e4",
-      "backup_ads_banner":"fa550b812f10bf38",
-      "backup_ads_intertitial":"a841a0c1c6e56602",
+      "backup_native_ads_Admob_or_applovin":"d2b67343419be8d5",
+      "backup_ads_banner":"d95999b3f3d55299",
+      "backup_ads_intertitial":"d584449108b40014",
       "interval_intertitial": 1,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
@@ -17,8 +17,8 @@
       "high_paying_keyword_3": "sport",
       "high_paying_keyword_4": "mobile",
       "high_paying_keyword_5": "insurance",
-      "admob_openads": "ca-app-pub-2548483122764029/9929391258",
-      "child_direct": "true",
+      "admob_openads": "ca-app-pub-7713162923735294/1908715833",
+      "child_direct": "false",
       "status_app": "0",
       "link_redirect": "https://"
     }
