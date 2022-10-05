@@ -91,7 +91,7 @@
    "id": 1,
    "name_category": "Panduan Sholat Dzikir & Doa",
    "title": "PENDAHULUAN",
-   "image": "file:///android_asset/image/icon.jpg",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
    "description": "PENDAHULUAN",
    "link": "https://cyclope.xyz/panduansholat/1t.html"
  },
@@ -99,7 +99,7 @@
    "id": 2,
    "name_category": "Panduan Sholat Dzikir & Doa",
    "title": "JADWAL SHOLAT ONLINE",
-   "image": "file:///android_asset/image/icon.jpg",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
    "description": "JADWAL SHOLAT ONLINE",
    "link": "https://cyclope.xyz/panduansholat/2t.html"
  },
@@ -107,7 +107,7 @@
    "id": 3,
    "name_category": "Panduan Sholat Dzikir & Doa",
    "title": "KALENDER MASEHI - HIJRIYAH",
-   "image": "file:///android_asset/image/icon.jpg",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
    "description": "KALENDER MASEHI - HIJRIYAH",
    "link": "https://cyclope.xyz/panduansholat/3t.html"
  },
@@ -115,7 +115,7 @@
    "id": 4,
    "name_category": "Panduan Sholat Dzikir & Doa",
    "title": "JHUKUM ISLAM",
-   "image": "file:///android_asset/image/icon.jpg",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
    "description": "JHUKUM ISLAM",
    "link": "https://cyclope.xyz/panduansholat/4t.html"
  },
@@ -123,12 +123,636 @@
    "id": 5,
    "name_category": "Panduan Sholat Dzikir & Doa",
    "title": "RUKUN ISLAM",
-   "image": "file:///android_asset/image/icon.jpg",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
    "description": "RUKUN ISLAM",
    "link": "https://cyclope.xyz/panduansholat/5t.html"
  },
  {
    "id": 6,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "THOHAROH",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "THOHAROH",
+   "link": "https://cyclope.xyz/panduansholat/6t.html"
+ },
+ {
+   "id": 7,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "NAJIS DAN CARA MENSUCIKANNYA",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "NAJIS DAN CARA MENSUCIKANNYA",
+   "link": "https://cyclope.xyz/panduansholat/7t.html"
+ },
+ {
+   "id": 8,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "ISTINJA DAN ADABNYA",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "ISTINJA DAN ADABNYA",
+   "link": "https://cyclope.xyz/panduansholat/8t.html"
+ },
+ {
+   "id": 9,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "MANDI BESAR",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "MANDI BESAR",
+   "link": "https://cyclope.xyz/panduansholat/9t.html"
+ },
+ {
+   "id": 10,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "WUDHU",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "WUDHU",
+   "link": "https://cyclope.xyz/panduansholat/10t.html"
+ },
+ {
+   "id": 11,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "SYARAT SYAH WUDHU, FARDHU WUDHU, SUNNAH WUDHU",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "SYARAT SYAH WUDHU, FARDHU WUDHU, SUNNAH WUDHU",
+   "link": "https://cyclope.xyz/panduansholat/11t.html"
+ },
+ {
+   "id": 12,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "TATA CARA MELAKUKAN WUDHU BESERTA GAMBAR",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "TATA CARA MELAKUKAN WUDHU BESERTA GAMBAR",
+   "link": "https://cyclope.xyz/panduansholat/12t.html"
+ },
+ {
+   "id": 13,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "PERKARA - PERKARA YANG DAPAT MEMBATALKAN WUDHU",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "PERKARA - PERKARA YANG DAPAT MEMBATALKAN WUDHU",
+   "link": "https://cyclope.xyz/panduansholat/13t.html"
+ },
+ {
+   "id": 14,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Fadilah/Keutamaan Wudhu",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Fadilah/Keutamaan Wudhu",
+   "link": "https://cyclope.xyz/panduansholat/14t.html"
+ },
+ {
+   "id": 15,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Yang Menjadi Perselisihan dalam Hal Wudhu",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Yang Menjadi Perselisihan dalam Hal Wudhu",
+   "link": "https://cyclope.xyz/panduansholat/15t.html"
+ },
+ {
+   "id": 16,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Cara BerWudhu Anggota Badan yang Diperban",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Cara BerWudhu Anggota Badan yang Diperban",
+   "link": "https://cyclope.xyz/panduansholat/16t.html"
+ },
+ {
+   "id": 17,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Pengertian Tayamum",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Pengertian Tayamum",
+   "link": "https://cyclope.xyz/panduansholat/17t.html"
+ },
+ {
+   "id": 18,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Cara melakukan Tayamum beserta Gambar",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Cara melakukan Tayamum beserta Gambar",
+   "link": "https://cyclope.xyz/panduansholat/18t.html"
+ },
+ {
+   "id": 19,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Hikmah Tayamum",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Hikmah Tayamum",
+   "link": "https://cyclope.xyz/panduansholat/19t.html"
+ },
+ {
+   "id": 20,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Permasalahan Tayamum",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Permasalahan Tayamum",
+   "link": "https://cyclope.xyz/panduansholat/20t.html"
+ },
+ {
+   "id": 21,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Membasuh Muzah",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Membasuh Muzah",
+   "link": "https://cyclope.xyz/panduansholat/21t.html"
+ },
+ {
+   "id": 22,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Adzan dan Iqomah",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Adzan dan Iqomah",
+   "link": "https://cyclope.xyz/panduansholat/22t.html"
+ },
+ {
+   "id": 23,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Bacaan Adzan",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Bacaan Adzan",
+   "link": "https://cyclope.xyz/panduansholat/23t.html"
+ },
+ {
+   "id": 24,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Bacaan Iqomah",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Bacaan Iqomah",
+   "link": "https://cyclope.xyz/panduansholat/24t.html"
+ },
+ {
+   "id": 25,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Doa Sesudah Adzan",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Doa Sesudah Adzan",
+   "link": "https://cyclope.xyz/panduansholat/25t.html"
+ },
+ {
+   "id": 26,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sunnah menjawab Adzan dan Iqomah",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sunnah menjawab Adzan dan Iqomah",
+   "link": "https://cyclope.xyz/panduansholat/26t.html"
+ },
+ {
+   "id": 27,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Contoh Adzan Mekkah",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Contoh Adzan Mekkah",
+   "link": "https://cyclope.xyz/panduansholat/27t.html"
+ },
+ {
+   "id": 28,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Wajib / Sholat Fardhu: Muqodimah",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Wajib / Sholat Fardhu: Muqodimah",
+   "link": "https://cyclope.xyz/panduansholat/28t.html"
+ },
+ {
+   "id": 29,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Waktu Sholat Fardhu",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Waktu Sholat Fardhu",
+   "link": "https://cyclope.xyz/panduansholat/29t.html"
+ },
+ {
+   "id": 30,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Waktu yang Dilarang Untuk Sholat",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Waktu yang Dilarang Untuk Sholat",
+   "link": "https://cyclope.xyz/panduansholat/30t.html"
+ },
+ {
+   "id": 31,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Subuh",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Subuh",
+   "link": "https://cyclope.xyz/panduansholat/31t.html"
+ },
+ {
+   "id": 32,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Dzhur",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Dzhur",
+   "link": "https://cyclope.xyz/panduansholat/32t.html"
+ },
+ {
+   "id": 33,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Azhar",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Azhar",
+   "link": "https://cyclope.xyz/panduansholat/33t.html"
+ },
+ {
+   "id": 34,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Maghrib",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Maghrib",
+   "link": "https://cyclope.xyz/panduansholat/34t.html"
+ },
+ {
+   "id": 35,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Isya",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Isya",
+   "link": "https://cyclope.xyz/panduansholat/35t.html"
+ },
+ {
+   "id": 36,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Jum'at",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Jum'at",
+   "link": "https://cyclope.xyz/panduansholat/36t.html"
+ },
+ {
+   "id": 37,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Tahajud",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Tahajud",
+   "link": "https://cyclope.xyz/panduansholat/37t.html"
+ },
+ {
+   "id": 38,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Sunnah Taubat",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Sunnah Taubat",
+   "link": "https://cyclope.xyz/panduansholat/38t.html"
+ },
+ {
+   "id": 39,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Istisqa",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Istisqa",
+   "link": "https://cyclope.xyz/panduansholat/39t.html"
+ },
+ {
+   "id": 40,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Sunnah Hajat",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Sunnah Hajat",
+   "link": "https://cyclope.xyz/panduansholat/40t.html"
+ },
+ {
+   "id": 41,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Sunnah Dhuha",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Sunnah Dhuha",
+   "link": "https://cyclope.xyz/panduansholat/41t.html"
+ },
+ {
+   "id": 42,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Idul Fitri",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Idul Fitri",
+   "link": "https://cyclope.xyz/panduansholat/42t.html"
+ },
+ {
+   "id": 43,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Idul Adha",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Idul Adha",
+   "link": "https://cyclope.xyz/panduansholat/43t.html"
+ },
+ {
+   "id": 44,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Tahiyatul Mesjid",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Tahiyatul Mesjid",
+   "link": "https://cyclope.xyz/panduansholat/44t.html"
+ },
+ {
+   "id": 45,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Tarawih",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Tarawih",
+   "link": "https://cyclope.xyz/panduansholat/45t.html"
+ },
+ {
+   "id": 46,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Witir",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Witir",
+   "link": "https://cyclope.xyz/panduansholat/46t.html"
+ },
+ {
+   "id": 47,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Jenazah",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Jenazah",
+   "link": "https://cyclope.xyz/panduansholat/47t.html"
+ },
+ {
+   "id": 48,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Gaib",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Gaib",
+   "link": "https://cyclope.xyz/panduansholat/48t.html"
+ },
+ {
+   "id": 49,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Rawatib",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Rawatib",
+   "link": "https://cyclope.xyz/panduansholat/49t.html"
+ },
+ {
+   "id": 50,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Istiqoroh",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Istiqoroh",
+   "link": "https://cyclope.xyz/panduansholat/50t.html"
+ },
+ {
+   "id": 51,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Gerhana",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Gerhana",
+   "link": "https://cyclope.xyz/panduansholat/51t.html"
+ },
+ {
+   "id": 52,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Tasbih",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Tasbih",
+   "link": "https://cyclope.xyz/panduansholat/52t.html"
+ },
+ {
+   "id": 53,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Sunnah Mutlaq",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Sunnah Mutlaq",
+   "link": "https://cyclope.xyz/panduansholat/53t.html"
+ },
+ {
+   "id": 54,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholat Sunnah Sesudah Wudhu",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholat Sunnah Sesudah Wudhu",
+   "link": "https://cyclope.xyz/panduansholat/54t.html"
+ },
+ {
+   "id": 55,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Keringanan Sholat di Dalam Perjalanan",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Keringanan Sholat di Dalam Perjalanan",
+   "link": "https://cyclope.xyz/panduansholat/55t.html"
+ },
+ {
+   "id": 56,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Dalil Sholat Secara Sempurna Atau Qosor",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Dalil Sholat Secara Sempurna Atau Qosor",
+   "link": "https://cyclope.xyz/panduansholat/56t.html"
+ },
+ {
+   "id": 57,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Pengertian Sholat Qosor",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Pengertian Sholat Qosor",
+   "link": "https://cyclope.xyz/panduansholat/57t.html"
+ },
+ {
+   "id": 58,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Syarat Sah Sholat Qosor",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Syarat Sah Sholat Qosor",
+   "link": "https://cyclope.xyz/panduansholat/58t.html"
+ },
+ {
+   "id": 59,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Qosor Dhuhur",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Qosor Dhuhur",
+   "link": "https://cyclope.xyz/panduansholat/59t.html"
+ },
+ {
+   "id": 60,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Qosor Ashar",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Qosor Ashar",
+   "link": "https://cyclope.xyz/panduansholat/60t.html"
+ },
+ {
+   "id": 61,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Qosor Isya",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Qosor Isya",
+   "link": "https://cyclope.xyz/panduansholat/61t.html"
+ },
+ {
+   "id": 62,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Jama'Sholat ( Menggabung Dua Sholat )",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Jama'Sholat ( Menggabung Dua Sholat )",
+   "link": "https://cyclope.xyz/panduansholat/62t.html"
+ },
+ {
+   "id": 63,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Pengertian Sholat Jama'",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Pengertian Sholat Jama'",
+   "link": "https://cyclope.xyz/panduansholat/63t.html"
+ },
+ {
+   "id": 64,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Dalil Sholat Jama'",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Dalil Sholat Jama'",
+   "link": "https://cyclope.xyz/panduansholat/64t.html"
+ },
+ {
+   "id": 65,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "A. Syarat Sah Jama'Taqdim",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "A. Syarat Sah Jama'Taqdim",
+   "link": "https://cyclope.xyz/panduansholat/65t.html"
+ },
+ {
+   "id": 66,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Niat Sholat Jama'",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Niat Sholat Jama'",
+   "link": "https://cyclope.xyz/panduansholat/66t.html"
+ },
+ {
+   "id": 67,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Batas Dibolehkannya Mengambil Keringanan",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Batas Dibolehkannya Mengambil Keringanan",
+   "link": "https://cyclope.xyz/panduansholat/67t.html"
+ },
+ {
+   "id": 68,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Pegertian Sholat Jama'Qosor",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Pegertian Sholat Jama'Qosor",
+   "link": "https://cyclope.xyz/panduansholat/68t.html"
+ },
+ {
+   "id": 69,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Cara Melaksanakan Shalat Jamak Qashar Taqdim, Dhuhur dengan Ashar",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Cara Melaksanakan Shalat Jamak Qashar Taqdim, Dhuhur dengan Ashar",
+   "link": "https://cyclope.xyz/panduansholat/69t.html"
+ },
+ {
+   "id": 70,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Cara Melaksanakan Shalat Jamak Qashar Taqdim, Maghrib dengan Isya'",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Cara Melaksanakan Shalat Jamak Qashar Taqdim, Maghrib dengan Isya'",
+   "link": "https://cyclope.xyz/panduansholat/70t.html"
+ },
+ {
+   "id": 71,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Cara Melaksanakan Shalat Jamak Qashar Taqdim, Dhuhur dengan Ashar",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Cara Melaksanakan Shalat Jamak Qashar Taqdim, Dhuhur dengan Ashar",
+   "link": "https://cyclope.xyz/panduansholat/71t.html"
+ },
+ {
+   "id": 72,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Cara Melaksanakan Shalat Jamak Qashar Taqdim, Maghrib dengan Isya'",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Cara Melaksanakan Shalat Jamak Qashar Taqdim, Maghrib dengan Isya'",
+   "link": "https://cyclope.xyz/panduansholat/72t.html"
+ },
+ {
+   "id": 73,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Qodo Sholat yang Tertinggal",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Qodo Sholat yang Tertinggal",
+   "link": "https://cyclope.xyz/panduansholat/73t.html"
+ },
+ {
+   "id": 74,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Sholatnya orang sakit",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Sholatnya orang sakit",
+   "link": "https://cyclope.xyz/panduansholat/74t.html"
+ },
+ {
+   "id": 75,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Doa & Zikir Sesudah Sholat (Dzikir Sholat Fardhu)",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Doa & Zikir Sesudah Sholat (Dzikir Sholat Fardhu)",
+   "link": "https://cyclope.xyz/panduansholat/75t.html"
+ },
+ {
+   "id": 76,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Doa & Zikir Sesudah Sholat (Dzikir Sholat Sunnah)",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Doa & Zikir Sesudah Sholat (Dzikir Sholat Sunnah)",
+   "link": "https://cyclope.xyz/panduansholat/76t.html"
+ },
+ {
+   "id": 77,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Dzikir dzikir pilihan",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Dzikir dzikir pilihan",
+   "link": "https://cyclope.xyz/panduansholat/77t.html"
+ },
+ {
+   "id": 78,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Dzikir Pagi",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Dzikir Pagi",
+   "link": "https://cyclope.xyz/panduansholat/78t.html"
+ },
+ {
+   "id": 79,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Dzikir Petang",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Dzikir Petang",
+   "link": "https://cyclope.xyz/panduansholat/79t.html"
+ },
+ {
+   "id": 80,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Dzikir Pagi dan Petang",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Dzikir Pagi dan Petang",
+   "link": "https://cyclope.xyz/panduansholat/80t.html"
+ },
+ {
+   "id": 81,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Dzikir Sebelum Tidur",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Dzikir Sebelum Tidur",
+   "link": "https://cyclope.xyz/panduansholat/81t.html"
+ },
+ {
+   "id": 82,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Doa Doa Sholat Fardu",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Doa Doa Sholat Fardu",
+   "link": "https://cyclope.xyz/panduansholat/82t.html"
+ },
+ {
+   "id": 83,
+   "name_category": "Panduan Sholat Dzikir & Doa",
+   "title": "Doa Doa Sholat Sunnah",
+   "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
+   "description": "Doa Doa Sholat Sunnah",
+   "link": "https://cyclope.xyz/panduansholat/83t.html"
+ }
+]
+}
    "name_category": "Panduan Sholat Dzikir & Doa",
    "title": "THOHAROH",
    "image": "file:///android_asset/image/icon.jpg",
