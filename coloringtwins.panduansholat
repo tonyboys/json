@@ -1,5 +1,3 @@
-
-text/x-generic panduansholat.json ( UTF-8 Unicode text, with very long lines )
 {
   "Ads": [
     {
@@ -18,6 +16,9 @@ text/x-generic panduansholat.json ( UTF-8 Unicode text, with very long lines )
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
+      "on_off-category":"",
+      "on_off-moreapp":"",
+      "child":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
