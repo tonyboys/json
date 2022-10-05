@@ -82,7 +82,7 @@
     {
       "id": 1,
       "name_category": "Panduan Sholat",
-      "image": "file:///android_asset/image/icon.jpg"  
+      "image": "https://cyclope.xyz/panduansholat/icon.jpeg"  
     }
   ],
   "Data": 
@@ -114,9 +114,9 @@
  {
    "id": 4,
    "name_category": "Panduan Sholat Dzikir & Doa",
-   "title": "JHUKUM ISLAM",
+   "title": "HUKUM ISLAM",
    "image": "https://cyclope.xyz/panduansholat/icon.jpeg",
-   "description": "JHUKUM ISLAM",
+   "description": "HUKUM ISLAM",
    "link": "https://cyclope.xyz/panduansholat/4t.html"
  },
  {
