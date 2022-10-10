@@ -1,0 +1,126 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-9294315148341490/8788241577",
+      "main_ads_intertitial":"ca-app-pub-9294315148341490/3568253227",
+      "main_ads_natives":"ca-app-pub-9294315148341490/9942089881",
+      "backup_ads_natives":"cf779577d4bccf36",
+      "backup_ads_banner":"b4aa7bbcbd0fc6e7",
+      "backup_ads_intertitial":"b53aa14f3dc47d79",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"2",
+      "interval_intertitial": 1,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "child_direct_gpdr": "true",
+      "on_off_category": "1",
+      "on_off_moreapp": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Panduan 1",
+      "image": "https://rendra-inc.my.id/data/prediksitogel/panduan1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Panduan 2",
+      "image": "https://rendra-inc.my.id/data/prediksitogel/panduan2.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Panduan 1",
+      "title": "Tafsir Mimpi Lengkap Beserta Gambarnya",
+      "image": "file:///android_asset/image/tafsir.jpg",
+      "description": "Disini akan saya berikan beberapa rumus yang mungkin bisa anda pakai untuk menambah pengetahuan togel anda. ",
+      "link": "https://rendra-inc.my.id/data/prediksitogel/tafsir.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Panduan 2",
+      "title": "Cara Menghitung Rumus Togel 4 Angka 99% Tembus Terus",
+      "image": "file:///android_asset/image/hitungrumus.jpg",
+      "description": "Rahasia Menang 4 Angka Terbaik Dan Terpercaya - siapapun yang bermain togel pasti mengharapkan kemenangan",
+      "link": "https://rendra-inc.my.id/data/prediksitogel/chia6.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Panduan 1",
+      "title": "Tips Rahasia Cara Mencari Rumus Angka Togel Terbaru",
+      "image": "file:///android_asset/image/topsrahasia.jpg",
+      "description": "Rahasia Menang 4 Angka Terbaik Dan Terpercaya - siapapun yang bermain togel pasti mengharapkan kemenangan",
+      "link": "https://rendra-inc.my.id/data/prediksitogel/chia9.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Panduan 2",
+      "title": "KUMPULAN RUMUS TOGEL ABADI TERBAIK",
+      "image": "file:///android_asset/image/trik.jpg",
+      "description": "Rahasia Menang 4 Angka Terbaik Dan Terpercaya - siapapun yang bermain togel pasti mengharapkan kemenangan",
+      "link": "https://rendra-inc.my.id/data/prediksitogel/chia5.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Panduan 1",
+      "title": "Tabel Shio 2022 Lengkap dengan Arti Mimpi",
+      "image": "file:///android_asset/image/tabelshio.jpg",
+      "description": "Rahasia Menang 4 Angka Terbaik Dan Terpercaya - siapapun yang bermain togel pasti mengharapkan kemenangan",
+      "link": "https://rendra-inc.my.id/data/prediksitogel/tabelshio.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Panduan 2",
+      "title": " Keluaran Live Draw Angka Jitu SGP,HK,SIDNEY",
+      "image": "file:///android_asset/image/livedraw.jpg",
+      "description": "Rahasia Menang 4 Angka Terbaik Dan Terpercaya - siapapun yang bermain togel pasti mengharapkan kemenangan",
+      "link": "https://rendra-inc.my.id/data/prediksitogel/Livedraw.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Panduan 2",
+      "title": "Bocoran Live Harian angka Togel 99% JITU",
+      "image": "file:///android_asset/image/bocoran.jpg",
+      "description": "Rahasia Menang 4 Angka Terbaik Dan Terpercaya - siapapun yang bermain togel pasti mengharapkan kemenangan",
+      "link": "https://rendra-inc.my.id/data/prediksitogel/bocoran.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Panduan 2",
+      "title": "Prediksi Angka Togel 99% JITU 2D3D4D",
+      "image": "file:///android_asset/image/prediksi.jpg",
+      "description": "Rahasia Menang 4 Angka Terbaik Dan Terpercaya - siapapun yang bermain togel pasti mengharapkan kemenangan",
+      "link": "https://rendra-inc.my.id/data/prediksitogel/chia2.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Panduan 2",
+      "title": "Cara Main Togel Agar Menang Tembus Angka",
+      "image": "file:///android_asset/image/caramain.jpg",
+      "description": "Disini akan saya berikan beberapa rumus yang mungkin bisa anda pakai untuk menambah pengetahuan togel anda",
+      "link": "https://rendra-inc.my.id/data/prediksitogel/chia10.html" 
+    }
+  ]
+}
