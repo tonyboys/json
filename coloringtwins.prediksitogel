@@ -40,87 +40,400 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Panduan 1",
-      "image": "https://rendra-inc.my.id/data/prediksitogel/panduan1.png"
+      "name_category": "Angka Jitu Togel",
+      "image": "https://github.com/tonyboys/togel.github.io/issues/1#issue-1402707230"
     },
     {
       "id": 2,
-      "name_category": "Panduan 2",
-      "image": "https://rendra-inc.my.id/data/prediksitogel/panduan2.png"
+      "name_category": "Tips",
+      "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415"
     }
   ],
-  "Data": [
-    {
-      "id": 1,
-      "name_category": "Panduan 1",
-      "title": "Tafsir Mimpi Lengkap Beserta Gambarnya",
-      "image": "file:///android_asset/image/tafsir.jpg",
-      "description": "Disini akan saya berikan beberapa rumus yang mungkin bisa anda pakai untuk menambah pengetahuan togel anda. ",
-      "link": "https://rendra-inc.my.id/data/prediksitogel/tafsir.html"
-    },
-    {
-      "id": 2,
-      "name_category": "Panduan 2",
-      "title": "Cara Menghitung Rumus Togel 4 Angka 99% Tembus Terus",
-      "image": "file:///android_asset/image/hitungrumus.jpg",
-      "description": "Rahasia Menang 4 Angka Terbaik Dan Terpercaya - siapapun yang bermain togel pasti mengharapkan kemenangan",
-      "link": "https://rendra-inc.my.id/data/prediksitogel/chia6.html"
-    },
-    {
-      "id": 3,
-      "name_category": "Panduan 1",
-      "title": "Tips Rahasia Cara Mencari Rumus Angka Togel Terbaru",
-      "image": "file:///android_asset/image/topsrahasia.jpg",
-      "description": "Rahasia Menang 4 Angka Terbaik Dan Terpercaya - siapapun yang bermain togel pasti mengharapkan kemenangan",
-      "link": "https://rendra-inc.my.id/data/prediksitogel/chia9.html"
-    },
-    {
-      "id": 4,
-      "name_category": "Panduan 2",
-      "title": "KUMPULAN RUMUS TOGEL ABADI TERBAIK",
-      "image": "file:///android_asset/image/trik.jpg",
-      "description": "Rahasia Menang 4 Angka Terbaik Dan Terpercaya - siapapun yang bermain togel pasti mengharapkan kemenangan",
-      "link": "https://rendra-inc.my.id/data/prediksitogel/chia5.html"
-    },
-    {
-      "id": 5,
-      "name_category": "Panduan 1",
-      "title": "Tabel Shio 2022 Lengkap dengan Arti Mimpi",
-      "image": "file:///android_asset/image/tabelshio.jpg",
-      "description": "Rahasia Menang 4 Angka Terbaik Dan Terpercaya - siapapun yang bermain togel pasti mengharapkan kemenangan",
-      "link": "https://rendra-inc.my.id/data/prediksitogel/tabelshio.html"
-    },
-    {
-      "id": 6,
-      "name_category": "Panduan 2",
-      "title": " Keluaran Live Draw Angka Jitu SGP,HK,SIDNEY",
-      "image": "file:///android_asset/image/livedraw.jpg",
-      "description": "Rahasia Menang 4 Angka Terbaik Dan Terpercaya - siapapun yang bermain togel pasti mengharapkan kemenangan",
-      "link": "https://rendra-inc.my.id/data/prediksitogel/Livedraw.html"
-    },
-    {
-      "id": 7,
-      "name_category": "Panduan 2",
-      "title": "Bocoran Live Harian angka Togel 99% JITU",
-      "image": "file:///android_asset/image/bocoran.jpg",
-      "description": "Rahasia Menang 4 Angka Terbaik Dan Terpercaya - siapapun yang bermain togel pasti mengharapkan kemenangan",
-      "link": "https://rendra-inc.my.id/data/prediksitogel/bocoran.html"
-    },
-    {
-      "id": 8,
-      "name_category": "Panduan 2",
-      "title": "Prediksi Angka Togel 99% JITU 2D3D4D",
-      "image": "file:///android_asset/image/prediksi.jpg",
-      "description": "Rahasia Menang 4 Angka Terbaik Dan Terpercaya - siapapun yang bermain togel pasti mengharapkan kemenangan",
-      "link": "https://rendra-inc.my.id/data/prediksitogel/chia2.html"
-    },
-    {
-      "id": 9,
-      "name_category": "Panduan 2",
-      "title": "Cara Main Togel Agar Menang Tembus Angka",
-      "image": "file:///android_asset/image/caramain.jpg",
-      "description": "Disini akan saya berikan beberapa rumus yang mungkin bisa anda pakai untuk menambah pengetahuan togel anda",
-      "link": "https://rendra-inc.my.id/data/prediksitogel/chia10.html" 
-    }
-  ]
+  "Data": 
+  [
+ {
+   "id": 1,
+   "name_category": "Angka Jitu Togel",
+   "title": "Angka Jitu Togel",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/1#issue-1402707230",
+   "description": "Angka Jitu Togel",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank40.html"
+ },
+ {
+   "id": 2,
+   "name_category": "Tips & Trik",
+   "title": "Rumus Togel 2D Lengkap",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Rumus Togel 2D Lengkap",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank34.html"
+ },
+ {
+   "id": 3,
+   "name_category": "Tips & Trik",
+   "title": "Cara Main Togel Agar Menang Tembus Angka",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Cara Main Togel Agar Menang Tembus Angka",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank32.html"
+ },
+ {
+   "id": 4,
+   "name_category": "Tips & Trik",
+   "title": "Rumus Mencari Angka Ganjil Dan Genap",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Rumus Mencari Angka Ganjil Dan Genap",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank31.html"
+ },
+ {
+   "id": 5,
+   "name_category": "Tips & Trik",
+   "title": "Tips Menang Colok Bebas Judi Togel",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Tips Menang Colok Bebas Judi Togel",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank30.html"
+ },
+ {
+   "id": 6,
+   "name_category": "Tips & Trik",
+   "title": "Tips Rahasia Cara Mencari Rumus Angka Togel",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Tips Rahasia Cara Mencari Rumus Angka Togel 2Terbaru",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank29.html"
+ },
+ {
+   "id": 7,
+   "name_category": "Tips & Trik",
+   "title": "CARA MENCARI RUMUS TOGEL 2D",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "CARA MENCARI RUMUS TOGEL 2D  JITU DAN TERAKURAT",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank28.html"
+ },
+ {
+   "id": 8,
+   "name_category": "Tips & Trik",
+   "title": "Tafsir Mimpi Jatuh Dalam Togel",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Tafsir Mimpi Jatuh Dalam Togel 2D, 3D dan 4D",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank27.html"
+ },
+ {
+   "id": 9,
+   "name_category": "Tips & Trik",
+   "title": "Tafsir Mimpi Kalajengking Dalam Togel",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "*Tafsir Mimpi Kalajengking Dalam Togel 2D, 3D dan 4D*",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank26.html"
+ },
+ {
+   "id": 10,
+   "name_category": "Tips & Trik",
+   "title": "Tafsir Mimpi Erek Erek 4D",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Tafsir Mimpi Erek Erek 4D Abjad Lengkap",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank25.html"
+ },
+ {
+   "id": 11,
+   "name_category": "Tips & Trik",
+   "title": "BUKU TAFSIRAN MIMPI 3 ANGKA",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "BUKU TAFSIRAN MIMPI 3 ANGKA (3D) TOGEL",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank24.html"
+ },
+ {
+   "id": 12,
+   "name_category": "Tips & Trik",
+   "title": "GAMBAR BUKU TAFSIR MIMPI TOGEL 2D",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "GAMBAR BUKU TAFSIR MIMPI TOGEL 2D LENGKAP",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank23.html"
+ },
+ {
+   "id": 13,
+   "name_category": "Tips & Trik",
+   "title": "Tafsir Mimpi Tentang Ayam",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Tafsir Mimpi Tentang Ayam di Togel 2d,3d,4d",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank22.html"
+ },
+ {
+   "id": 14,
+   "name_category": "Tips & Trik",
+   "title": "Rumus Rahasia Cara Menang Togel Besar Kecil",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Rumus Rahasia Cara Menang Togel Besar Kecil atau 50:50",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank21.html"
+ },
+ {
+   "id": 15,
+   "name_category": "Tips & Trik",
+   "title": "TIPS DAN TRIK JITU CARA PASANG TOGEL",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "TIPS DAN TRIK JITU CARA PASANG TOGEL AGAR SELALU MENANG",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank20.html"
+ },
+ {
+   "id": 16,
+   "name_category": "Tips & Trik",
+   "title": "Rumus Togel Jitu Angka Silangan Jarang Pecah",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Rumus Togel Jitu Angka Silangan Jarang Pecah",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank19.html"
+ },
+ {
+   "id": 17,
+   "name_category": "Tips & Trik",
+   "title": "Kumpulan Arti Mimpi Bersetubuh",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Kumpulan Arti Mimpi Bersetubuh dalam Nomor Jitu Togel",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank18.html"
+ },
+ {
+   "id": 18,
+   "name_category": "Tips & Trik",
+   "title": "Kumpulan Arti Mimpi Tentang Ular",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Kumpulan Arti Mimpi Tentang Ular Lengkap dengan Togel 4D, 3D dan 2D",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank17.html"
+ },
+ {
+   "id": 19,
+   "name_category": "Tips & Trik",
+   "title": "Arti dan Tafsir Mimpi Potong Rambut",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Arti dan Tafsir Mimpi Potong Rambut dalam Nomor Togel Jitu",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank16.html"
+ },
+ {
+   "id": 20,
+   "name_category": "Tips & Trik",
+   "title": "Cara Menghitung Rumus Togel 4 Angka",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Cara Menghitung Rumus Togel 4 Angka 99% Tembus Terus",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank15.html"
+ },
+ {
+   "id": 21,
+   "name_category": "Tips & Trik",
+   "title": "KUMPULAN RUMUS TOGEL",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "KUMPULAN RUMUS TOGEL ABADI TERBAIK",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank14.html"
+ },
+ {
+   "id": 22,
+   "name_category": "Tips & Trik",
+   "title": "RUMUS SHIO JITU PALING AKURAT",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "RUMUS SHIO JITU PALING AKURAT",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank13.html"
+ },
+ {
+   "id": 23,
+   "name_category": "Tips & Trik",
+   "title": "Tips Rahasia Cara Mencari Rumus Angka Togel",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Tips Rahasia Cara Mencari Rumus Angka Togel Terbaru",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank12.html"
+ },
+ {
+   "id": 24,
+   "name_category": "Tips & Trik",
+   "title": "Tafsir Mimpi Gigi Togel 2D 3D 4D",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Tafsir Mimpi Gigi Togel 2D 3D 4D",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank11.html"
+ },
+ {
+   "id": 25,
+   "name_category": "Tips & Trik",
+   "title": "Arti Mimpi Kucing Togel 2D 3D 4D\nArti Mimpi Kucing",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Arti Mimpi Kucing Togel 2D 3D 4D Lengkap\nArti Mimpi Kucing",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank10.html"
+ },
+ {
+   "id": 26,
+   "name_category": "Tips & Trik",
+   "title": "Tafsir Mimpi Bayi Togel 2D 3D 4D\nAngka Mimpi Bayi",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Tafsir Mimpi Bayi Togel 2D 3D 4D\nAngka Mimpi Bayi",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank9.html"
+ },
+ {
+   "id": 27,
+   "name_category": "Tips & Trik",
+   "title": "Mimpi Ketemu Mantan Pacar",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Mimpi Ketemu Mantan Pacar, istri atau suami togel 2D 3D 4D",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank8.html"
+ },
+ {
+   "id": 28,
+   "name_category": "Tips & Trik",
+   "title": "Rumus Togel Hongkong 2d 3d 4d angka jitu",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Rumus Togel Hongkong 2d 3d 4d angka jitu",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank7.html"
+ },
+ {
+   "id": 29,
+   "name_category": "Tips & Trik",
+   "title": "Kode Alam Togel",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Kode Alam Togel",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank6.html"
+ },
+ {
+   "id": 30,
+   "name_category": "Tips & Trik",
+   "title": "Trik Main Togel Menang Terus",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Trik Main Togel Menang Terus, Cara Merumus Togel Paling Jitu",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank5.html"
+ },
+ {
+   "id": 31,
+   "name_category": "Tips & Trik",
+   "title": "Trik Togel Untuk Menang  Setiap Hari",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Trik Togel Untuk Menang  Setiap Hari",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank4.html"
+ },
+ {
+   "id": 32,
+   "name_category": "Tips & Trik",
+   "title": "CARA HITUNG  RUMUS",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "CARA HITUNG  RUMUS \nTOGEL DENGAN BENAR",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank2.html"
+ },
+ {
+   "id": 33,
+   "name_category": "Tips & Trik",
+   "title": "Rumus Togel SGP 3D Jitu Akurat",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Rumus Togel SGP 3D Jitu Akurat",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank33.html"
+ },
+ {
+   "id": 34,
+   "name_category": "Tips & Trik",
+   "title": "Buku Tafsir Mimpi Togel 2D – 3D – 4D",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Buku Tafsir Mimpi Togel 2D – 3D – 4D",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank35.html"
+ },
+ {
+   "id": 35,
+   "name_category": "Tips & Trik",
+   "title": "Arti Nomor Togel",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Arti Nomor Togel",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank36.html"
+ },
+ {
+   "id": 36,
+   "name_category": "Tips & Trik",
+   "title": "Penjelasan Tafsir Mimipi Togel 2D",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Penjelasan Tafsir Mimipi Togel 2D Terpercaya Bab 2",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank37.html"
+ },
+ {
+   "id": 37,
+   "name_category": "Tips & Trik",
+   "title": "Tafsir Mimpi Togel 3D",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Tafsir Mimpi Togel 3D Abjad D Sampai I",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank38.html"
+ },
+ {
+   "id": 38,
+   "name_category": "Tips & Trik",
+   "title": "Satu Cara Mudah Mencari Rumus",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Satu Cara Mudah Mencari Rumus",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank39.html"
+ },
+ {
+   "id": 39,
+   "name_category": "Tips & Trik",
+   "title": "Rumus Jitu togel 99%  Tembus",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Rumus Jitu togel 99%  Tembus",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank41.html"
+ },
+ {
+   "id": 40,
+   "name_category": "Tips & Trik",
+   "title": "MENCARI KEBERUNTUNGAN DENGAN TOGEL",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "MENCARI KEBERUNTUNGAN DENGAN TOGEL\n RUMUS SHIO",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank42.html"
+ },
+ {
+   "id": 41,
+   "name_category": "Tips & Trik",
+   "title": "SHIO, ANGKA DAN HARI PASARAN JAWA",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "SHIO, ANGKA DAN HARI PASARAN JAWA",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank43.html"
+ },
+ {
+   "id": 42,
+   "name_category": "Tips & Trik",
+   "title": "ARTI ANGKA DALAM SHIO",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "ARTI ANGKA DALAM SHIO",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank44.html"
+ },
+ {
+   "id": 43,
+   "name_category": "Tips & Trik",
+   "title": "Makalah Rumus Togel Terbaik",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Makalah Rumus Togel Terbaik",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank45.html"
+ },
+ {
+   "id": 44,
+   "name_category": "Tips & Trik",
+   "title": "Trik Jitu Merumus Angka Togel Yang Ampuh",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Trik Jitu Merumus Angka Togel Yang Ampuh",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank46.html"
+ },
+ {
+   "id": 45,
+   "name_category": "Tips & Trik",
+   "title": "Arti mimpi togel untuk angka 3D",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Arti mimpi togel untuk angka 3D",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank47.html"
+ },
+ {
+   "id": 46,
+   "name_category": "Tips & Trik",
+   "title": "BUKU MIMPI TOGEL 2D DAN PELARIAN",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "BUKU MIMPI TOGEL 2D DAN PELARIAN",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank48.html"
+ },
+ {
+   "id": 47,
+   "name_category": "Tips & Trik",
+   "title": "Tafsir Mimpi Menemukan Uang",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Tafsir Mimpi Menemukan Uang dalam Togel 2D, 3D Dan 4D",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank49.html"
+ },
+ {
+   "id": 48,
+   "name_category": "Tips & Trik",
+   "title": "Cara Meramal Togel Yang Akan Keluar",
+   "image": "https://github.com/tonyboys/togel.github.io/issues/2#issue-1402708415",
+   "description": "Cara Meramal Togel Yang Akan Keluar",
+   "link": "https://raw.githubusercontent.com/tonyboys/togel.github.io/main/masterblank50.html"
+ }
+]
 }
