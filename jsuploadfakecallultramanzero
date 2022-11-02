@@ -1,0 +1,108 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-9294315148341490/7525997925",
+      "main_ads_intertitial":"ca-app-pub-9294315148341490/5476542985",
+      "main_ads_natives":"ca-app-pub-9294315148341490/8902769178",
+      "main_ads_rewards":"ca-app-pub-9294315148341490/8196195738",
+      "backup_ads_natives":"215afcceeb57ebb7",
+      "backup_ads_banner":"6cfbea53993d4e19",
+      "backup_ads_intertitial":"ed1c459c6b595a8e",
+      "backup_ads_rewards":"858c4e1c3c805a20",
+      "open_ads_admob":"ca-app-pub-9294315148341490/5171451229",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "gone_moreapp": "0"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"file:///android_asset/ludo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"file:///android_asset/home.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"file:///android_asset/mine.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    },
+    {
+      "id":4,
+      "title":"Sonic the Hedgehogâ„¢ Classic",
+      "image":"file:///android_asset/sonic.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.sega.sonic1px"
+    },
+    {
+      "id":5,
+      "title":"War Machines: Best Free Online War & Military Game",
+      "image":"file:///android_asset/machine.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta"
+    },
+    {
+      "id":6,
+      "title":"Tank vs Helicopter. Free War Game: Massive Warfare",
+      "image":"file:///android_asset/heli.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.tinybytes.massivewarfare2"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Ultraman",
+      "image_url": "file:///android_asset/image/ultraman.jpg",
+      "video_url": "ultraman",
+      "voice_url": "call.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Mickey",
+      "image_url": "file:///android_asset/image/mickey.jpg",
+      "video_url": "mickey",
+      "voice_url": "call.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Minion",
+      "image_url": "file:///android_asset/image/minion.jpg",
+      "video_url": "minion",
+      "voice_url": "call.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Godzila",
+      "image_url": "file:///android_asset/image/godzila.jpg",
+      "video_url": "godzila",
+      "voice_url": "call.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Winie",
+      "image_url": "file:///android_asset/image/winie.jpg",
+      "video_url": "winie",
+      "voice_url": "call.mp3"
+    }
+  ]
+}
