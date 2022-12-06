@@ -110,6 +110,41 @@
       "image_url": "https://cyclope.xyz/ultraman/ultamangmbr1.png",
       "video_url": "https://cyclope.xyz/ultraman/ultraman1.mp4",
       "voice_url": "https://cyclope.xyz/ultraman/suaraultraman1.mp3"
-    }
+    }, 
+    {
+      "id": 6,
+      "name": "Ultraman2",
+      "image_url": "https://cyclope.xyz/ultraman/ultamangmbr2.png",
+      "video_url": "https://cyclope.xyz/ultraman/ultraman2.mp4",
+      "voice_url": "https://cyclope.xyz/ultraman/suaraultraman2.mp3"
+    }, 
+    {
+      "id": 7,
+      "name": "Ultraman3",
+      "image_url": "https://cyclope.xyz/ultraman/ultamangmbr3.png",
+      "video_url": "https://cyclope.xyz/ultraman/ultraman3.mp4",
+      "voice_url": "https://cyclope.xyz/ultraman/suaraultraman3.mp3"
+    }, 
+    {
+      "id": 8,
+      "name": "Ultraman4",
+      "image_url": "https://cyclope.xyz/ultraman/ultamangmbr4.png",
+      "video_url": "https://cyclope.xyz/ultraman/ultraman4.mp4",
+      "voice_url": "https://cyclope.xyz/ultraman/suaraultraman4.mp3"
+    }, 
+    {
+      "id": 9,
+      "name": "Ultraman5",
+      "image_url": "https://cyclope.xyz/ultraman/ultamangmbr5.png",
+      "video_url": "https://cyclope.xyz/ultraman/ultraman5.mp4",
+      "voice_url": "https://cyclope.xyz/ultraman/suaraultraman5.mp3"
+    }, 
+    {
+      "id": 10,
+      "name": "Ultraman6",
+      "image_url": "https://cyclope.xyz/ultraman/ultamangmbr6.png",
+      "video_url": "https://cyclope.xyz/ultraman/ultraman6.mp4",
+      "voice_url": "https://cyclope.xyz/ultraman/suaraultraman6.mp3"
+    } 
   ]
 }
