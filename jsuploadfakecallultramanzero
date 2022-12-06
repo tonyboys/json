@@ -103,6 +103,13 @@
       "image_url": "file:///android_asset/image/winie.jpg",
       "video_url": "winie",
       "voice_url": "call.mp3"
+    },    
+    {
+      "id": 5,
+      "name": "Ultraman1",
+      "image_url": "https://cyclope.xyz/ultraman/ultamangmbr1.png",
+      "video_url": "https://cyclope.xyz/ultraman/ultraman1.mp4",
+      "voice_url": "https://cyclope.xyz/ultraman/suaraultraman1.mp3"
     }
   ]
 }
