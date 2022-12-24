@@ -23,9 +23,9 @@
       "link_redirect": "https://"
     }
   ],
-   "Theme": 
-[
-        "url_theme": "https://kerikil.xyz/keyboard/demonslayer/1.jpg"
+   "Theme": [
+    {
+      "url_theme": "https://kerikil.xyz/keyboard/demonslayer/1.jpg"
     }, 
      {
       "url_theme": "https://kerikil.xyz/keyboard/demonslayer/2.jpg"
