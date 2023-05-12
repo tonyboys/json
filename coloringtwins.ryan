@@ -1,16 +1,16 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"APPLOVIN-",
-      "main_ads_banner": "ca-app-pub-2548483122764029/6065736661",
-      "main_ads_intertitial":"ca-app-pub-2548483122764029/9619050438",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "interval_intertitial": 0,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
-      "open_ads": "ca-app-pub-2548483122764029/9668104551",
+      "open_ads": "",
       "high_paying_keyword_1": "Issurance",
       "high_paying_keyword_2": "Forex",
       "high_paying_keyword_3": "Slot",
