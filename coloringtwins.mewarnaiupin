@@ -16,7 +16,7 @@
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",  
-      "status_app": false,
+      "status_app": true,
       "link_redirect": "https://play.google.com/store/apps/details?id=com.creative.superherocoloring",
       "base_url":"https://cyclope.xyz/coloringtwins/coloringupin/api/",
       "upload_url":"https://cyclope.xyz/coloringtwins/coloringupin/uploads/",
