@@ -1,16 +1,16 @@
 {
   "Ads": [
       {
-     "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"94e179c401ad5595",
-      "main_ads_natives":"9aea0358ff505843",
-      "main_ads_rewards":"762e6de3482de646",
-      "backup_ads_natives":"9aea0358ff505843",
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-7713162923735294/3755307012",
+      "main_ads_intertitial":"ca-app-pub-7713162923735294/9328317455",
+      "main_ads_natives":"ca-app-pub-7713162923735294/6997667584",
+      "main_ads_rewards":"ca-app-pub-7713162923735294/6217818823",
+      "backup_ads_natives":"",
       "backup_ads_banner":"",
-      "backup_ads_intertitial":"94e179c401ad5595",
-      "backup_ads_rewards":"762e6de3482de646",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
@@ -23,7 +23,7 @@
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
-      "status_app": "1",
+      "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.imutkath.ultramancallfake",
       "gone_moreapp": "0"
       }
